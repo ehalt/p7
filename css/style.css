@@ -1,0 +1,116 @@
+
+/*
+
+======= nav =======
+
+*/
+
+.bg {
+    background: black;
+}
+
+/*
+
+======= hero section =======
+
+*/
+
+.hbg {
+    background: url(../img/bg1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.lck {
+    margin-top: 15%;
+    margin-bottom:15%;
+}
+.lck p{
+    color: #fff;
+    font-size: 18px;
+    margin-top: 5%;
+}
+
+.hea{
+    color: #fff;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    border: 3px solid #678E61;
+}
+
+
+
+/*
+======= About me ======
+*/
+
+.aboubg {
+    background: url(../img/m3.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.7;
+}
+
+.abmr {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.abme h1{
+    color: #fff;
+    padding-left: 5%;
+
+}
+
+.gnbr {
+    padding: 2px 3px;
+    background-color: #70C26D;
+}
+.ita{
+    font-style:italic;
+}
+.abg {
+}
+.abme p{
+    color: #fff;
+    text-align: justify;
+    font-size: 16px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.abme a{
+    color: #fff;
+    margin-left:5%;
+    padding: 10px 20px;
+    background: black;
+    text-transform: uppercase;
+    float: left;
+    text-decoration: none;
+    
+}
+
+/*
+====== skill =======
+
+*/
+
+.skbg {
+    background: black;
+}
+
+.sk{
+    margin-top:5%;
+    margin-bottom: 5%;
+}
+
+.sk h2{
+    color:#fff;
+}
+.sk p{
+    color:#fff;
+}
+
+
+
+
+
